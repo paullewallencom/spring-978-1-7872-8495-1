@@ -1,0 +1,17 @@
+node_modules
+.DS_Store
+out
+build
+package-lock.json
+!./Content
+
+bin
+.classpath
+.project
+.settings
+.idea
+.vscode
+.gradle
+*.iml
+
+cloud-ready-reactive-app.log
